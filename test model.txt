@@ -1,0 +1,45 @@
+resnet18,ResNet18_Weights.IMAGENET1K_V1
+resnet34,ResNet34_Weights.IMAGENET1K_V1
+
+--------------------
+resnet50,ResNet50_Weights.IMAGENET1K_V1
+Best test Acc: 0.5703324808184144
+Best test Acc's loss : 1.2579370435241544
+Best test Acc's epoch : 16
+
+------------------
+2.
+resnet50,ResNet50_Weights.IMAGENET1K_V2
+Best test Acc: 0.7340153452685423
+Best test Acc's loss : 1.1805030891047719
+Best test Acc's epoch : 18
+
+------------------------
+4.
+resnet101,ResNet101_Weights.IMAGENET1K_V1
+Best test Acc: 0.6624040920716113
+Best test Acc's loss : 1.1297230674787555
+Best test Acc's epoch : 88
+
+-----------------
+3.
+resnet101,ResNet101_Weights.IMAGENET1K_V2
+Best test Acc: 0.721227621483376
+Best test Acc's loss : 1.1936939598044471
+Best test Acc's epoch : 98
+
+-----------------
+resnet152,ResNet152_Weights.IMAGENET1K_V1
+Best test Acc: 0.5805626598465473
+Best test Acc's loss : 1.1787461542412447
+Best test Acc's epoch : 65
+
+
+-----------------
+1.
+resnet152,ResNet152_Weights.IMAGENET1K_V2
+Best test Acc: 0.772378516624041
+Best test Acc's loss : 1.234828452015167
+Best test Acc's epoch : 94
+
+regnet_y_128gf,RegNet_Y_128GF_Weights.IMAGENET1K_SWAG_E2E_V1
